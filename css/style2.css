@@ -65,7 +65,7 @@ body {
   padding: 1.0rem 4.0rem;
    margin-left:5rem;
   border: 0.1rem solid  #00b3b3;
-  font-family:"Avenir";
+  font-family:"Roboto";
 }
 
 .btn3 {
@@ -75,7 +75,7 @@ body {
   padding: 1.0rem 4.0rem;
    margin-left:0.3rem;
   border: 0.1rem solid  #00b3b3;
-  font-family:"Avenir";
+  font-family:"Roboto";
 }
 
  header nav ul > li.btn-outline:hover > a {
@@ -101,18 +101,18 @@ body {
   }
 
 .sample1 h6{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	padding-bottom: 2.5rem;
 	margin-right: 5rem;
   	margin-left: 5rem;
   }
 
 .sample1 h1{
-	font-family: "Baskerville";
+	font-family: "Roboto";
   }
 
 .sample1 h5 a{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	font-size: 1.5rem;
 	text-decoration: none;
 	color: #595959;
@@ -133,7 +133,7 @@ body {
   text-decoration: none;
   padding: 10px 40px;
   border: 0.1rem solid  #00b3b3;
-  font-family:"Avenir";
+  font-family:"Roboto";
 
 }
 
@@ -146,7 +146,7 @@ body {
   }
 
  .contact h6{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	text-align: left;
 	color:#000000;
 	text-align: center;
@@ -154,7 +154,7 @@ body {
   }
 
 .contact h1{
-	font-family: "Baskerville";
+	font-family: "Roboto";
 	color:#000000;
 	text-align: left;
 	margin-top:12.5rem;
@@ -163,7 +163,7 @@ body {
   }
 
  .contact h5{
-  font-family: "Avenir";
+  font-family: "Roboto";
   font-size: 1.8rem;
   font-weight: 600;
   } 
@@ -182,7 +182,7 @@ body {
   }
 
  .contact2 h6{
-  font-family: "Avenir";
+  font-family: "Roboto";
   text-align: left;
   color:#000000;
   text-align: center;
@@ -190,7 +190,7 @@ body {
   }
 
 .contact2 h1{
-  font-family: "Baskerville";
+  font-family: "Roboto";
   color:#000000;
   text-align: left;
   margin-top:12.5rem;
@@ -199,7 +199,7 @@ body {
   }
 
  .contact2 h5{
-  font-family: "Avenir";
+  font-family: "Roboto";
   font-size: 1.8rem;
   font-weight: 600;
   } 
@@ -275,7 +275,7 @@ footer i {
 
 .title h1 {
   font-size: 8.0rem;
-  font-family: "Baskerville";
+  font-family: "Roboto";
   margin-top: 14.0rem;
   }
 
@@ -296,7 +296,7 @@ footer i {
 
  .title2 h1 {
   font-size: 5.0rem;
-  font-family: "Baskerville";
+  font-family: "Roboto";
   margin-top: 14.0rem;
   }
 
@@ -316,7 +316,7 @@ footer i {
 
  .title3 h1 {
   font-size: 10.0rem;
-  font-family: "Baskerville";
+  font-family: "Roboto";
   margin-top: 14.0rem;
   }
 
@@ -376,12 +376,12 @@ footer i {
   }
 
  .text h1{
-  font-family: "Baskerville";
+  font-family: "Roboto";
 	margin-bottom: 5.0rem;
 }
 
 .text h6{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	line-height: 2;
 	word-spacing: 0.3rem;
 	margin-top:5.0rem;
@@ -389,7 +389,7 @@ footer i {
   }
 
 .text h5{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	font-size: 1.6rem;
 	font-weight: 600;
   }
@@ -470,7 +470,7 @@ footer i {
   }
 
 .mobile h6{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	font-size: 1.8rem;
 	color:  #00b3b3;
   }

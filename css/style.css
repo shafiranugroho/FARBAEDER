@@ -459,14 +459,14 @@ footer i {
 
 
   .art h6{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	line-height: 2;
 	word-spacing: 0.3rem;
 	margin-top:5.0rem;
   }
 
 .art h5{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	font-size: 1.8rem;
 	font-weight: 600;
   }
@@ -562,7 +562,7 @@ footer i {
   }
 
 .mobile h6{
-	font-family: "Avenir";
+	font-family: "Roboto";
 	font-size: 1.8rem;
 	color:  #00b3b3;
   }
