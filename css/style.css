@@ -29,7 +29,7 @@ header a{
   color: #000000;
   text-decoration: none;
   word-spacing: 2.0rem;
-  font-family:"Futura";
+  font-family:"Roboto";
   padding-top: 2.0rem;
 }
 
@@ -203,7 +203,7 @@ footer {
 	margin-top:3.0rem;
 	padding-top:1.0rem;
 	color: 	 #999999;
-	font-family: "Futura";
+	font-family: "Roboto";
 	text-align: middle;
   }
 
@@ -395,35 +395,36 @@ footer i {
   }
 
 .farb h6{
-  font-family: "Futura";
+  font-family: "Roboto";
   color: #999999;
-  word-spacing: 0.3rem;
+  word-spacing: 0.5rem;
   margin-top:1.0rem;
   font-size: 0.5rem;
   }
 
 .farb h5{
   padding-top:3.0rem;
+  letter-spacing: 0.3px;
   color:   #fff;
-  font-family: "Futura";
-  font-size: 1.6rem;
+  font-family: "Roboto";
+  font-size: 1.4rem;
   font-weight: 500;
   }
 
   .farb h4 {
-  font-family: "Futura";
+  font-family: "Roboto";
   color: #999999;
-  word-spacing: 0.3rem;
+  word-spacing: 0.5rem;
   font-size: 0.001rem;
-  padding-top: 58rem;
-  padding-bottom: 1.3rem;
+  padding-top: 59rem;
+  padding-bottom: 1.5rem;
   text-align: middle;
 
 }
 
 .farb a {
   text-decoration: none;
-  font-family: "Futura";
+  font-family: "Roboto";
   color:   #fff;
   word-spacing: 0.3rem;
 }
@@ -434,7 +435,7 @@ footer i {
 
 .farb img{
   width: 100%;
-  height: 35rem;
+  height: 100%;
   margin-top: 2.0rem;
   }
 
@@ -590,7 +591,7 @@ footer i {
 
 .cs-nav a{
     text-decoration: none;
-    font-family: "Futura"
+    font-family: "Roboto"
 }
 
 .cs-nav-display {
