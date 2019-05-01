@@ -722,6 +722,11 @@ on small devices, paste the mobile query code up in the buttons section and styl
 there.
 */
 
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
 
 /* Larger than mobile */
 @media (min-width: 400px) {}
