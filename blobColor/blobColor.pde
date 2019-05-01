@@ -60,9 +60,9 @@ void keyPressed() {
     saveFrame("imgCapture.jpg");
   }
   
-/*     if (key == 'c') {
+      if (key == 'c') {
     saveFrame("Photos/imgCapture-####.jpg");
-  } */
+  } 
   
 }
 
