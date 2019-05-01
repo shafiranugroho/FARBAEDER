@@ -33,6 +33,19 @@ header a{
   padding-top: 2.0rem;
 }
 
+
+body {
+  background-image: url("../blobColor/imgCapture.jpg");
+  background-position center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #fff;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
 /* BUTTONS */
 
 .btn {
@@ -386,26 +399,21 @@ footer i {
 /* FARB */
 
 .farb {
-  background-image: url("../blobColor/imgCapture.jpg");
-  background-size: cover;
-  no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+
   }
 
 .farb h6{
   font-family: "Roboto";
   color: #999999;
-  word-spacing: 0.5rem;
   margin-top:1.0rem;
   font-size: 0.5rem;
+  letter-spacing: 0.3px;
   }
 
 .farb h5{
-  padding-top:3.0rem;
+  padding-top:1rem;
   letter-spacing: 0.3px;
-  color:   #fff;
+  color: #fff;
   font-family: "Roboto";
   font-size: 1.4rem;
   font-weight: 500;
@@ -417,7 +425,7 @@ footer i {
   word-spacing: 0.5rem;
   font-size: 0.001rem;
   padding-top: 59rem;
-  padding-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
   text-align: middle;
 
 }
