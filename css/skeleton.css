@@ -97,14 +97,14 @@
   }
 
 .about h6{
-  font-family: "Avenir";
+  font-family: "Roboto";
   margin-top: -11.0rem;
   margin-bottom: 4.0rem;
   font-size: 1.8rem;
   }
 
 .about h1{
-  font-family: "Baskerville";
+  font-family: "Roboto";
   margin-top: 14.0rem;
   margin-bottom: 0.0rem;
   }
@@ -121,7 +121,7 @@
   }
 
  .facts h1{
-  font-family: "Avenir";
+  font-family: "Roboto";
   margin-top:3.0rem;
   font-size:10.0rem;
   margin-left: 3.5rem;
@@ -129,7 +129,7 @@
   }
 
 .facts h6{
-  font-family: "Avenir";
+  font-family: "Roboto";
   font-size: 2.4rem;
   margin-left: 10.0rem;
   margin-top:3.0rem;
@@ -142,12 +142,12 @@
   }
 
  .text h1{
-  font-family: "Baskerville";
+  font-family: "Roboto";
   margin-bottom: 5.0rem;
 }
 
 .text h6{
-  font-family: "Avenir";
+  font-family: "Roboto";
   line-height: 2;
   word-spacing: 0.3rem;
   margin-top:5.0rem;
@@ -155,7 +155,7 @@
   }
 
 .text h5{
-  font-family: "Avenir";
+  font-family: "Roboto";
   font-size: 2.2rem;
   font-weight: 600;
   }
@@ -208,7 +208,7 @@
 
 .title h1 {
   font-size: 20.0rem;
-  font-family: "Baskerville";
+  font-family: "Roboto";
   margin-top: 11.0rem;
   }
 
@@ -219,7 +219,7 @@
 
 .title2 h1 {
   font-size: 12.0rem;
-  font-family: "Baskerville";
+  font-family: "Roboto";
   margin-top: 11.0rem;
   }
 
@@ -311,7 +311,7 @@
   }
 
   .art h6{
-  font-family: "Avenir";
+  font-family: "Roboto";
   line-height: 2;
   word-spacing: 0.3rem;
   margin-top:5.0rem;
@@ -319,7 +319,7 @@
   }
 
 .art h5{
-  font-family: "Avenir";
+  font-family: "Roboto";
   font-size: 1.8rem;
   font-weight: 600;
   }
@@ -354,7 +354,7 @@
   text-decoration: none;
   padding: 10px 40px;
   border: 0.1rem solid  #00b3b3;
-  font-family:"Avenir";
+  font-family:"Roboto";
 }
 
 .btn2 {
@@ -363,7 +363,7 @@
   text-decoration: none;
   padding: 1.0rem 26.0rem;
   border: 0.1rem solid  #00b3b3;
-  font-family:"Avenir";
+  font-family:"Roboto";
 }
 
 .artgrid {
@@ -443,7 +443,7 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.5rem; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
   color: #222; }
@@ -722,11 +722,6 @@ on small devices, paste the mobile query code up in the buttons section and styl
 there.
 */
 
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-}
 
 /* Larger than mobile */
 @media (min-width: 400px) {}
