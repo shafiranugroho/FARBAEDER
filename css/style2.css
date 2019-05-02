@@ -475,6 +475,24 @@ footer i {
 	color:  #00b3b3;
   }
 
+.mobile h5{
+  font-family: "Roboto";
+  font-size: 1.8rem;
+  color:  #00b3b3;
+  }
+
+  .mobile h4{
+  font-family: "Roboto";
+  font-size: 1.8rem;
+  color:  #00b3b3;
+  }
+
+  .mobile a{
+  font-family: "Roboto";
+  font-size: 1.8rem;
+  color:  #00b3b3;
+  }
+
  .userflow img{
   width: 90.0rem;
   height:auto;
