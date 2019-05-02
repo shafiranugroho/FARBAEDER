@@ -32,7 +32,7 @@ void setup() {
   colorMode(HSB, 255);
   String[] cameras = Capture.list();
   printArray(cameras);
-  video = new Capture(this, cameras[3]);
+  video = new Capture(this, "name=Microsoft® LifeCam Studio(TM) #2, size=1920x1200, fps=30");
   video.start();
   
   trackColor1 = new color[5];
